@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+//import mongoose from 'mongoose';
 import connection from '../config/connection.js';
 import { User, Thought } from '../models/index.js';
 

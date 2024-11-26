@@ -1,3 +1,5 @@
+// This file is already embedded in Thought.js, so it is not necessary to import it in the index.js file.
+// leaving the file only for documentation purposes
 import mongoose from 'mongoose';
 const { Schema, Types } = mongoose;
 
